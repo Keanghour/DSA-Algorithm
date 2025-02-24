@@ -1,28 +1,11 @@
 # DSA-Algorithm-
 Data Structures &amp; Algorithms (DSA) Implementations of essential data structures and algorithms in multiple languages. Covers arrays, linked lists, trees, graphs, sorting, searching, dynamic programming, and more. Ideal for learning, practicing, and improving problem-solving skills.
 
-
-
 ---
 
 # Digital Signature Algorithm (DSA) in Java
 
 This project demonstrates the implementation of the **Digital Signature Algorithm (DSA)** in Java for signing and verifying messages. The Digital Signature Algorithm is a cryptographic technique used to ensure the integrity, authenticity, and non-repudiation of data.
-
-### Table of Contents
-
-- [Digital Signature Algorithm (DSA) in Java](#digital-signature-algorithm-dsa-in-java)
-    - [Table of Contents](#table-of-contents)
-    - [Overview](#overview)
-    - [Project Structure](#project-structure)
-    - [Prerequisites](#prerequisites)
-    - [How to Run](#how-to-run)
-      - [1. Generate Keys](#1-generate-keys)
-      - [2. Encrypt and Sign Data](#2-encrypt-and-sign-data)
-      - [3. Decrypt and Verify Data](#3-decrypt-and-verify-data)
-    - [Notes](#notes)
-    - [License](#license)
-    - [Additional Notes:](#additional-notes)
 
 ### Overview
 
